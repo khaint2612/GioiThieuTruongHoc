@@ -1,0 +1,18 @@
+.news{
+    padding-bottom: 75px;
+    border-bottom: 1px dotted;
+    padding-top: 10px;
+}
+.news img{
+    float:left;
+    width: 120px;
+    height: 85px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.news h2{
+    color: rgb(22, 130, 206);
+}
+a{
+    text-decoration: none;
+}
